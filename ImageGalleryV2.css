@@ -1,0 +1,22 @@
+body {
+	padding-top: 70px
+	background-color: #d24dff;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	font-family: Impact;
+}
+
+.navbar-inverse {
+	background:  #2c3e50;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-family: Impact;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
